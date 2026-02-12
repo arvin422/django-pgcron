@@ -2,7 +2,7 @@ name: django-pgcron
 channels:
   - conda-forge
 dependencies:
-  - python=3.13
+  - python=3.14
   - uv==0.5.11
   - postgresql==17.2
   - make
